@@ -1,0 +1,30 @@
+@media only screen and (min-width: 1281px) {
+
+}
+@media only screen and (min-width: 601px) and (max-width: 1280px) {
+
+}
+/* media de bootstrap */
+@media only screen and (max-width: 769px) {
+
+
+}
+@media only screen and (min-width: 481px) and (max-width: 600px) {
+
+}
+@media only screen and (min-width: 1px) and (max-width: 480px) {
+	#principal {
+	background-position: left top;
+	color: white;
+	text-shadow: purple;
+	}
+	#map {
+	border: 2px solid purple;
+	}
+button {
+	background-color: purple;
+	}
+	.datos {
+	margin-top: 5px;
+	}
+}
